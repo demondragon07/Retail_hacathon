@@ -64,7 +64,7 @@ Customers are categorized into actionable segments using aggregated sales data:
 * **At-Risk:** Customers who have not shopped in 60+ days but have an existing point balance.
 ### Lost Sales Calculation (UC6)
 To identify revenue leakage for the Top 5 best-selling products, we apply the following formula:
-* **Formula:** ```Estimated Lost Sales = (Average Daily Sales $\times$ Days Out-of-Stock) $\times$ Unit Price```.
+* **Formula:** ```Estimated Lost Sales = (Avg Daily Sales X Days Out-of-Stock) X (Unit Price)```.
 
 ---
 
